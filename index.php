@@ -114,7 +114,7 @@ include ("koneksi.php");
       </div>
     </div>
   </div>
-</footer>
+	  </footer>
 
   <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
